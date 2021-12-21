@@ -1,6 +1,6 @@
 ### Overview of the School District Analysis
-The task is to prepare standardized test data for analysis, reporting and presentations to provide insights on performance trends and patterns to inform strategic decision at the school and district levels.
-The exercise is meant to help Maria analyze data on student funding and students’ standardized test scores (Math and Reading scores). We’ll be aggregating the data and showing different school performances. This information will allow the school board make decisions about school funding. 
+Preparing standardized test data for analysis, reporting and presentations to provide insights on performance trends and patterns that will inform strategic decision at the school and district levels.
+The exercise is meant to help Maria analyze data on student funding and students’ standardized test scores (Math and Reading scores). We’ll be aggregating the data and showing different school performances. This information will allow the school board to make decisions about school funding. 
 Although recently, there’s been evidence of academic dishonesty and some of the grades for Thomas High School ninth graders appear to have been altered. So we’d have to make some adjustments so that we can run the analysis without the results of students in that grade. We’d be comparing this with the original analysis. 
 
 ### Results
